@@ -1,3 +1,6 @@
+/// This is the tutorial implementation of blockchain using rust from the blog post:
+/// https://blog.logrocket.com/how-to-build-a-blockchain-in-rust/
+
 use chrono::prelude::*;
 use libp2p::{
     core::upgrade,
